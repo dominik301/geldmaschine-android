@@ -1,0 +1,8 @@
+com/herokuapp/geldmaschine/BuildConfig.java
+ com.herokuapp.geldmaschine.BuildConfig
+com/herokuapp/geldmaschine/LauncherActivity.java
+ com.herokuapp.geldmaschine.LauncherActivity
+com/herokuapp/geldmaschine/DelegationService.java
+ com.herokuapp.geldmaschine.DelegationService
+com/herokuapp/geldmaschine/Application.java
+ com.herokuapp.geldmaschine.Application

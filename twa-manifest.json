@@ -1,0 +1,38 @@
+{
+  "packageId": "com.herokuapp.geldmaschine",
+  "host": "geldmaschine-spiel.herokuapp.com",
+  "name": "Geldmaschine",
+  "launcherName": "Geldmaschine",
+  "display": "fullscreen-sticky",
+  "themeColor": "#43A047",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#43A047",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "https://geldmaschine-spiel.herokuapp.com/client/images/icons/icon-512x512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "/Users/dominik/upload-keystore.jks",
+    "alias": "upload"
+  },
+  "appVersionName": "1.1",
+  "appVersionCode": 2,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://geldmaschine-spiel.herokuapp.com/client/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "orientation": "landscape",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "appVersion": "1.1"
+}
