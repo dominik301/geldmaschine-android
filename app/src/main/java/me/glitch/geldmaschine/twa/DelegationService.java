@@ -1,4 +1,4 @@
-package com.herokuapp.geldmaschine;
+package me.glitch.geldmaschine.twa;
 
 
 
