@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/geldmaschine-android.iml" filepath="$PROJECT_DIR$/.idea/modules/geldmaschine-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/geldmaschine-android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/geldmaschine-android.app.iml" />
     </modules>
   </component>
 </project>
